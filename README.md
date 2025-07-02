@@ -5,7 +5,7 @@ This project is a simple and clean introduction page where I present myself as a
 
 ## 🌐 Live Demo
 
-👉 [Check out the live demo here](#)
+[Click here to view the live site](https://Veli-Dal.github.io/My-Website/)
 
 ## 📌 Features
 
